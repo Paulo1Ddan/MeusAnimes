@@ -8,7 +8,7 @@
         Name="com.meusanimes"
         Version="1.0.0.0"
         Publisher="CN=PaulinBacanaSoftware"
-        Uri="https://paulo1ddan.github.io/MeusAnimes/update.appinstaller"/>
+        Uri="https://paulo1ddan.github.io/MeusAnimes/MeusAnimes_1.0.0.0_x64.msix"/>
 
     <UpdateSettings>
         <OnLaunch HoursBetweenUpdateChecks="0"/>
