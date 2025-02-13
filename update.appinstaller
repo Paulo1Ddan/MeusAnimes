@@ -8,6 +8,7 @@
         Name="com.meusanimes"
         Version="1.0.1.0"
         Publisher="CN=PaulinBacanaSoftware"
+        ProcessorArchitecture="x64"
         Uri="https://paulo1ddan.github.io/MeusAnimes/MeusAnimes_1.0.1.0_x64.msix"/>
 
     <UpdateSettings>
