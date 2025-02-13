@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-    Version="1.0.2.0"
+    Version="1.0.3.0"
     Uri="https://paulo1ddan.github.io/MeusAnimes/update.appinstaller"
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
 
     <MainPackage
         Name="com.meusanimes"
-        Version="1.0.2.0"
+        Version="1.0.3.0"
         Publisher="CN=PaulinBacanaSoftware"
         ProcessorArchitecture="x64"
-        Uri="https://paulo1ddan.github.io/MeusAnimes/MeusAnimes_1.0.2.0_x64.msix"/>
+        Uri="https://paulo1ddan.github.io/MeusAnimes/MeusAnimes_1.0.3.0_x64.msix"/>
 
     <UpdateSettings>
         <OnLaunch HoursBetweenUpdateChecks="0"/>
